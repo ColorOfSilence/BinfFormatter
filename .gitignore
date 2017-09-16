@@ -1,0 +1,15 @@
+#Ignore everything init
+*
+
+#But do not ignore the following files/directories
+!.gitignore
+!src
+!src/
+!src/**
+
+!*.txt
+!*.MD
+!*.md
+
+#MAC Hidden Files -_-
+.DS_Store
